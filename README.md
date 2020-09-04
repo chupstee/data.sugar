@@ -7,6 +7,9 @@ While the Instagram blog summarizes the main findings and conclusions, the full 
 
 You can use the code posted here to verify the validity of the facts we discovered and published on the Insta blog.
 
+## Projects
+
+- [00001_thirty_years_old](https://nbviewer.jupyter.org/github/chupstee/data.sugar/blob/master/00001_thirty_years_old/thirty_years_old.ipynb)
 
 ## Requirements
 
