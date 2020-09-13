@@ -9,7 +9,11 @@ You can use the code posted here to verify the validity of the facts we discover
 
 ## Projects
 
-- [00001_thirty_years_old](https://nbviewer.jupyter.org/github/chupstee/data.sugar/blob/master/00001_thirty_years_old/thirty_years_old.ipynb)
+- [`Thirty Years Old`](https://nbviewer.jupyter.org/github/chupstee/data.sugar/blob/master/00001_thirty_years_old/thirty_years_old.ipynb)  
+    WHEN IS MY BRAIN UP?🎓  
+    The human brain reaches its peak efficiency by the age of 30.  
+    That say the scientists, we ask the data!  
+    We wondered *if most of the artworks in the Moma database were actually created by artists in their 30s*.
 
 ## Requirements
 
