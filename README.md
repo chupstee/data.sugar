@@ -13,11 +13,17 @@ You can use the code posted here to verify the validity of the facts we discover
     WHEN IS MY BRAIN UP?🎓  
     The human brain reaches its peak efficiency by the age of 30.  
     That say the scientists, we ask the data!  
-    We wondered *if most of the artworks in the Moma database were actually created by artists in their 30s*.
+    We wondered *if most of the artworks in the Moma database were actually created by artists in their 30s*.  
+- [`The World Happiness Map`](https://nbviewer.jupyter.org/github/chupstee/data.sugar/blob/master/00002_world_happiness/world_happiness.map.ipynb)  
+    IN SEARCH OF 🎈HAPPINESS: 🌍WHERE?  
+    Happiness is the most uncertain thing. People try to measure happiness like height or temperature.  
+    For example, The World Happiness Report from Kaggle ranks 156 countries by their level of happiness on a 10-point scale.  
+    Even in our search of happiness, we've also never been interested in anything but the data.  
+    We would like to *discover the happiest places*!  
 
 ## Requirements
 
-To reproduce projects you need:
+To reproduce our projects you need:
 
 - [Python 3](https://www.python.org/)
 - [Jupyter](https://jupyter.org/install)
@@ -27,6 +33,7 @@ To reproduce projects you need:
     - [re](https://docs.python.org/3/library/re.html) - module to provide regular expression matching operations
     - [matplotlib](https://matplotlib.org/) - a library for creating static, animated, and interactive visualizations in Python
     - [seaborn](https://seaborn.pydata.org/) - high-level Python data visualization library based on matplotlib
+    - (optional) [geopandas](https://geopandas.org/) - a powerfull tool for geographic stuff
     
 ## License
 
