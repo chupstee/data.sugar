@@ -1,11 +1,11 @@
 # About data.sugar
 
 This repository is a collection of Jupyter notebooks made out of interest in Data Science.  
-These research projects support [@data.sugar Instagram blog](https://www.instagram.com/data.sugar/), which is a scientific-popular blog.
+These research projects support [@data.sugar Instagram blog](https://www.instagram.com/data.sugar/) and [@data.sugar Telegram channel](https://t.me/data_sugar), which are scientific-popular blogs.
 
-While the Instagram blog summarizes the main findings and conclusions, the full researches are available here.
+While the Instagram and Telegram blogs summarize the main findings and conclusions, the full researches are available here.
 
-You can use the code posted here to verify the validity of the facts we discovered and published on the Insta blog.
+You can use the code posted here to verify the validity of the facts we discovered and published in the Insta blog and the Telegram channel.
 
 ## Projects
 
