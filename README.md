@@ -20,6 +20,8 @@ You can use the code posted here to verify the validity of the facts we discover
     For example, The World Happiness Report from Kaggle ranks 156 countries by their level of happiness on a 10-point scale.  
     Even in our search of happiness, we've also never been interested in anything but the data.  
     We would like to *discover the happiest places*!  
+- [`The Relationship between Happiness and Health Indicators`](https://nbviewer.jupyter.org/github/chupstee/data.sugar/blob/master/00002_world_happiness/world_happiness.what.health.ipynb)  
+    IN SEARCH OF 🎈HAPPINESS: 🍔WHAT if HEALTH?  
 
 ## Requirements
 
