@@ -14,7 +14,7 @@ You can use the code posted here to verify the validity of the facts we discover
     The human brain reaches its peak efficiency by the age of 30.  
     That say the scientists, we ask the data!  
     We wondered *if most of the artworks in the Moma database were actually created by artists in their 30s*.  
-- [`The World Happiness Map`](https://nbviewer.jupyter.org/github/chupstee/data.sugar/blob/master/00002_world_happiness/world_happiness.map.ipynb)  
+- [`The World Happiness Map`](https://nbviewer.jupyter.org/github/chupstee/data.sugar/blob/master/00002_world_happiness/world_happiness.where.map.ipynb)  
     IN SEARCH OF 🎈HAPPINESS: 🌍WHERE?  
     Happiness is the most uncertain thing. People try to measure happiness like height or temperature.  
     For example, The World Happiness Report from Kaggle ranks 156 countries by their level of happiness on a 10-point scale.  
