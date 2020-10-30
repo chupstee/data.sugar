@@ -25,7 +25,7 @@ You can use the code posted here to verify the validity of the facts we discover
     We continue our happiness challenge!  
     Today we would like to know how health makes us happy.  
     To compare health indicators with happiness score, we'll take the World Happiness Report from Kaggle, which ranks 156 countries for happiness on a 10-point scale, and use CIA data from The World Factbook.
-- [`The Relationship between Happiness and Age of Population by Country`](https://github.com/chupstee/data.sugar/blob/master/00002_world_happiness/world_happiness.when.age.ipynb)
+- [`The Relationship between Happiness and Age of Population by Country`](https://nbviewer.jupyter.org/github/chupstee/data.sugar/blob/master/00002_world_happiness/world_happiness.when.age.ipynb)
 
 ## Requirements
 
