@@ -22,10 +22,12 @@ You can use the code posted here to verify the validity of the facts we discover
     We would like to *discover the happiest places*!  
 - [`The Relationship between Happiness and Health Indicators`](https://nbviewer.jupyter.org/github/chupstee/data.sugar/blob/master/00002_world_happiness/world_happiness.what.health.ipynb)  
     IN SEARCH OF 🎈HAPPINESS: 🍔WHAT if HEALTH?  
-    We continue our happiness challenge!  
-    Today we would like to know how health makes us happy.  
-    To compare health indicators with happiness score, we'll take the World Happiness Report from Kaggle, which ranks 156 countries for happiness on a 10-point scale, and use CIA data from The World Factbook.
-- [`The Relationship between Happiness and Age of Population by Country`](https://nbviewer.jupyter.org/github/chupstee/data.sugar/blob/master/00002_world_happiness/world_happiness.when.age.ipynb)
+    We would like to know how health makes us happy.  
+    We try to establish *the relationship between happiness and health indicators*.
+- [`The Relationship between Happiness and Age of Population by Country`](https://nbviewer.jupyter.org/github/chupstee/data.sugar/blob/master/00002_world_happiness/world_happiness.when.age.ipynb)  
+    IN SEARCH OF 🎈HAPPINESS: 🕗WHEN?  
+    Let's find out when is happiness.  
+    We would like to identify *the relationship between the level of happiness and the age of the population by country*.  
 
 ## Requirements
 
