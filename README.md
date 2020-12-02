@@ -29,7 +29,7 @@ You can use the code posted here to verify the validity of the facts we discover
     Let's find out when is happiness.  
     We would like to identify *the relationship between the level of happiness and the age of the population by country*.  
 - [`Profitablity Calc - Bought a Bike`](https://nbviewer.jupyter.org/github/chupstee/data.sugar/blob/master/00003_conscious_consumption/conscious_consumption.bike.ipynb)  
-    A simple calculator that can help prevent spontaneous purchases.
+    A simple calculator to help prevent spontaneous purchases.
 
 ## Requirements
 
